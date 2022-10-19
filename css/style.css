@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+}
+
+.start {
+    background-color: rgb(0, 0, 0);
+    border: none;
+    padding: 40px;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.start:hover {
+    background-color: rgb(185, 184, 184);
+}
+
+.stop {
+    background-color: rgb(0, 0, 0);
+    border: none;
+    padding: 40px;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.stop:hover {
+    background-color: rgb(185, 184, 184);
+}
